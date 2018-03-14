@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	background-image: url("../img/bg1.jpg");
+	
+
+}
+
+.titulo {
+	
+	text-align: center;
+	text-shadow: 2px 2px 8px #FF0000;
+}
+
+.text_descifra{
+	font-family: fantasy;
+}
+
+.contenedor {
+	background: #F8AFAF;
+}
+
+.palabra {
+	margin-top: 200px;
+	text-align: center;
+	height: 80px;
+
+}
+
+.palabra input{
+	border-radius: 20px;
+	border: none;
+	padding: 5px;
+}
+
+
+#msg_result {
+	text-align: center;
+	text-shadow: 2px 2px;
+	font-style: italic;
+	font-size: 90px;
+}
